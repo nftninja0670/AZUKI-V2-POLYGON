@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4b35B443886f391D7dBF421fCaF3632A4c6b18a7",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc61edfa500b85b390e9f8317016d69053c97194e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Azuki V2 Polygon",
+  "SYMBOL": "Azukipoygon",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/azuki-v2-polygon",
+  "SHOW_BACKGROUND": true
+}
